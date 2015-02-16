@@ -15,6 +15,7 @@
 		4A29BB7E1A8D127B0064166A /* aliveApiTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A29BB7D1A8D127B0064166A /* aliveApiTests.swift */; };
 		4A7FC70C1A914E300089E03C /* APIController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A7FC70B1A914E300089E03C /* APIController.swift */; };
 		4A996D1B1A916ACE0009D32F /* libPods-SwiftHTTP.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 4A996D1A1A916ACE0009D32F /* libPods-SwiftHTTP.a */; };
+		4A9B80911A916F3000ADECB0 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4A9B80901A916F3000ADECB0 /* Default-568h@2x.png */; };
 		4AEE5B491A913B3600CDA116 /* HTTPEndPoint.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AEE5B481A913B3600CDA116 /* HTTPEndPoint.swift */; };
 		5A049B93268B5D7A0387476A /* libPods-aliveApiTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 3BE00973525D7547BE5A4909 /* libPods-aliveApiTests.a */; };
 /* End PBXBuildFile section */
@@ -46,6 +47,7 @@
 		4A3BC9281A91621C00A47704 /* libPods-SwiftHTTP.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = "libPods-SwiftHTTP.a"; path = "Pods/build/Debug-iphoneos/libPods-SwiftHTTP.a"; sourceTree = "<group>"; };
 		4A7FC70B1A914E300089E03C /* APIController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = APIController.swift; sourceTree = "<group>"; };
 		4A996D1A1A916ACE0009D32F /* libPods-SwiftHTTP.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = "libPods-SwiftHTTP.a"; path = "Pods/build/Debug-iphoneos/libPods-SwiftHTTP.a"; sourceTree = "<group>"; };
+		4A9B80901A916F3000ADECB0 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
 		4AEE5B481A913B3600CDA116 /* HTTPEndPoint.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HTTPEndPoint.swift; sourceTree = "<group>"; };
 		58169D0F2909F4055C904B57 /* Pods.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.debug.xcconfig; path = "Pods/Target Support Files/Pods/Pods.debug.xcconfig"; sourceTree = "<group>"; };
 		CBB4B1712595AC6F325AD749 /* Pods-aliveApiTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-aliveApiTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-aliveApiTests/Pods-aliveApiTests.release.xcconfig"; sourceTree = "<group>"; };
@@ -86,6 +88,7 @@
 		4A29BB591A8D127B0064166A = {
 			isa = PBXGroup;
 			children = (
+				4A9B80901A916F3000ADECB0 /* Default-568h@2x.png */,
 				4A29BB641A8D127B0064166A /* aliveApi */,
 				4A29BB7A1A8D127B0064166A /* aliveApiTests */,
 				4A29BB631A8D127B0064166A /* Products */,
@@ -239,6 +242,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4A29BB6D1A8D127B0064166A /* Main.storyboard in Resources */,
+				4A9B80911A916F3000ADECB0 /* Default-568h@2x.png in Resources */,
 				4A29BB721A8D127B0064166A /* LaunchScreen.xib in Resources */,
 				4A29BB6F1A8D127B0064166A /* Images.xcassets in Resources */,
 			);
